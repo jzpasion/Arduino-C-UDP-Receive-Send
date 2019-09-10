@@ -1,0 +1,20 @@
+C:\Users\Jeremiah Zyrel\source\repos\TestArduino\TestArduino\bin\Debug\TestArduino.exe.config
+C:\Users\Jeremiah Zyrel\source\repos\TestArduino\TestArduino\bin\Debug\TestArduino.exe
+C:\Users\Jeremiah Zyrel\source\repos\TestArduino\TestArduino\bin\Debug\TestArduino.pdb
+C:\Users\Jeremiah Zyrel\source\repos\TestArduino\TestArduino\obj\Debug\TestArduino.Form1.resources
+C:\Users\Jeremiah Zyrel\source\repos\TestArduino\TestArduino\obj\Debug\TestArduino.Properties.Resources.resources
+C:\Users\Jeremiah Zyrel\source\repos\TestArduino\TestArduino\obj\Debug\TestArduino.csproj.GenerateResource.cache
+C:\Users\Jeremiah Zyrel\source\repos\TestArduino\TestArduino\obj\Debug\TestArduino.csproj.CoreCompileInputs.cache
+C:\Users\Jeremiah Zyrel\source\repos\TestArduino\TestArduino\obj\Debug\TestArduino.exe
+C:\Users\Jeremiah Zyrel\source\repos\TestArduino\TestArduino\obj\Debug\TestArduino.pdb
+C:\Users\Jeremiah Zyrel\source\repos\TestArduino\TestArduino\obj\Debug\TestArduino.csprojAssemblyReference.cache
+C:\Users\Jeremiah Zyrel\Desktop\Works-2019\Arduino - c#\UDP c# - arduino Ethernet\TestArduino-C#\TestArduino\bin\Debug\TestArduino.exe.config
+C:\Users\Jeremiah Zyrel\Desktop\Works-2019\Arduino - c#\UDP c# - arduino Ethernet\TestArduino-C#\TestArduino\bin\Debug\TestArduino.exe
+C:\Users\Jeremiah Zyrel\Desktop\Works-2019\Arduino - c#\UDP c# - arduino Ethernet\TestArduino-C#\TestArduino\bin\Debug\TestArduino.pdb
+C:\Users\Jeremiah Zyrel\Desktop\Works-2019\Arduino - c#\UDP c# - arduino Ethernet\TestArduino-C#\TestArduino\obj\Debug\TestArduino.csprojAssemblyReference.cache
+C:\Users\Jeremiah Zyrel\Desktop\Works-2019\Arduino - c#\UDP c# - arduino Ethernet\TestArduino-C#\TestArduino\obj\Debug\TestArduino.Form1.resources
+C:\Users\Jeremiah Zyrel\Desktop\Works-2019\Arduino - c#\UDP c# - arduino Ethernet\TestArduino-C#\TestArduino\obj\Debug\TestArduino.Properties.Resources.resources
+C:\Users\Jeremiah Zyrel\Desktop\Works-2019\Arduino - c#\UDP c# - arduino Ethernet\TestArduino-C#\TestArduino\obj\Debug\TestArduino.csproj.GenerateResource.cache
+C:\Users\Jeremiah Zyrel\Desktop\Works-2019\Arduino - c#\UDP c# - arduino Ethernet\TestArduino-C#\TestArduino\obj\Debug\TestArduino.csproj.CoreCompileInputs.cache
+C:\Users\Jeremiah Zyrel\Desktop\Works-2019\Arduino - c#\UDP c# - arduino Ethernet\TestArduino-C#\TestArduino\obj\Debug\TestArduino.exe
+C:\Users\Jeremiah Zyrel\Desktop\Works-2019\Arduino - c#\UDP c# - arduino Ethernet\TestArduino-C#\TestArduino\obj\Debug\TestArduino.pdb
